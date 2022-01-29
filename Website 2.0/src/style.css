@@ -1,0 +1,48 @@
+main {
+  background-color: #535353;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 12px;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 28px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  text-align: left;
+}
+
+.topnav {
+  display: flex;
+  margin-top: 40px;
+}
+
+a {
+  color: #212529;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  text-decoration: none;
+  width: 450px;
+  text-align: center;
+  display: block;
+}
+
+a:hover {
+  color: #495057;
+}
+
+.card {
+  width: 80%;
+  background-color: #FFFFFF;
+  padding: 32px;
+  border-radius: 20px;
+  text-align: center;
+}
