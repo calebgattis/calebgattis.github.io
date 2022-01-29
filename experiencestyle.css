@@ -85,8 +85,8 @@ h4 {
 .carvana {
   border: 1px soli;
   margin-top: 25px;
-  display: grid;
-  grid-gap: 20px;
+  display: flex;
+  grid-gap: 5vw;
   grid-template-columns: 1fr 1fr 1fr;
 }
 .report {
