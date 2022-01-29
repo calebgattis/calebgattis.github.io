@@ -20,38 +20,9 @@ h2 {
   text-align: left;
 }
 
-h3 {
-    font-family: 'Roboto', sans-serif;
-    margin-top: 40px;
-    font-size: 20px;
-    text-align: left;
-    color: #212529;
-}
-
-.resume {
-  margin-top: 40px;
-  width: auto;
-  height: 40px;
-  font-size: 22px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #e9ecef; 
-  border-radius: 10px;
-}
-
 .topnav {
   display: flex;
   margin-top: 40px;
-}
-
-p1 {
-    font-family: 'Roboto', sans-serif;
-    margin-top: 5px;
-    font-size: 14px;
-    text-align: left;
-    display: flex;
-    color: #212529;
 }
 
 a {
@@ -74,50 +45,4 @@ a:hover {
   padding: 32px;
   border-radius: 20px;
   text-align: center;
-}
-h4 {
-    font-family: 'Roboto', sans-serif;
-    margin-top: 25px;
-    font-size: 16px;
-    text-align: center;
-    color: #212529;
-}
-.carvana {
-  border: 1px soli;
-  margin-top: 25px;
-  display: grid;
-  grid-gap: 20px;
-  grid-template-columns: 1fr 1fr 1fr;
-}
-.report {
-  border: 1px soli;
-  width: 23vw;
-  height: 90px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-   background-color: #e9ecef; 
-  border-radius: 10px;
-}
-
-.deck {
-  border: 1px soli;
-  width: 23vw;
-  height: 90px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #e9ecef; 
-  border-radius: 10px;
-}
-
-.valuation {
-  border: 1px soli;
-  width: 23vw;
-  height: 90px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #e9ecef; 
-  border-radius: 10px;
 }
